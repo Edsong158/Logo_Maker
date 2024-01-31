@@ -36,3 +36,4 @@ async function generateLogo() {
 }
 
 generateLogo();
+
